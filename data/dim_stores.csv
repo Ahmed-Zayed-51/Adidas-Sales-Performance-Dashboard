@@ -1,0 +1,121 @@
+StoreID,StoreCode,Region,Country,City,StoreType
+1,S001,Region 7,UAE,Dubai,Online Warehouse
+2,S002,Region 3,Spain,Dubai,Outlet
+3,S003,Region 6,France,Toronto,Outlet
+4,S004,Region 7,Spain,Paris,Retail
+5,S005,Region 2,Egypt,Manchester,Online Warehouse
+6,S006,Region 6,KSA,Berlin,Online Warehouse
+7,S007,Region 7,KSA,Toronto,Outlet
+8,S008,Region 5,Germany,Los Angeles,Outlet
+9,S009,Region 6,UAE,New York,Online Warehouse
+10,S010,Region 1,KSA,Paris,Outlet
+11,S011,Region 5,UAE,Madrid,Outlet
+12,S012,Region 5,Italy,Berlin,Retail
+13,S013,Region 6,Spain,Munich,Online Warehouse
+14,S014,Region 6,UAE,Los Angeles,Retail
+15,S015,Region 8,USA,London,Outlet
+16,S016,Region 6,Germany,Los Angeles,Online Warehouse
+17,S017,Region 3,France,Los Angeles,Outlet
+18,S018,Region 1,UK,Manchester,Outlet
+19,S019,Region 1,UK,London,Online Warehouse
+20,S020,Region 4,Spain,Toronto,Retail
+21,S021,Region 5,Germany,Toronto,Retail
+22,S022,Region 1,UAE,Madrid,Online Warehouse
+23,S023,Region 6,UK,London,Outlet
+24,S024,Region 5,Germany,New York,Online Warehouse
+25,S025,Region 3,Germany,Munich,Online Warehouse
+26,S026,Region 5,KSA,Manchester,Online Warehouse
+27,S027,Region 3,France,Los Angeles,Outlet
+28,S028,Region 1,Canada,Berlin,Retail
+29,S029,Region 1,Spain,Los Angeles,Outlet
+30,S030,Region 5,Egypt,Manchester,Outlet
+31,S031,Region 8,UAE,Toronto,Retail
+32,S032,Region 8,Canada,New York,Retail
+33,S033,Region 1,UK,Los Angeles,Outlet
+34,S034,Region 1,UAE,Dubai,Retail
+35,S035,Region 6,UK,Los Angeles,Outlet
+36,S036,Region 8,Germany,Manchester,Outlet
+37,S037,Region 2,Germany,Toronto,Retail
+38,S038,Region 1,UAE,Paris,Online Warehouse
+39,S039,Region 3,Germany,Rome,Online Warehouse
+40,S040,Region 8,Egypt,Riyadh,Outlet
+41,S041,Region 4,USA,Paris,Online Warehouse
+42,S042,Region 4,Germany,Dubai,Online Warehouse
+43,S043,Region 2,Spain,Berlin,Online Warehouse
+44,S044,Region 4,USA,Manchester,Retail
+45,S045,Region 2,Canada,Berlin,Retail
+46,S046,Region 4,UK,Rome,Retail
+47,S047,Region 4,Egypt,Rome,Outlet
+48,S048,Region 7,UAE,Los Angeles,Retail
+49,S049,Region 8,USA,Paris,Online Warehouse
+50,S050,Region 5,France,Munich,Retail
+51,S051,Region 2,Egypt,Manchester,Retail
+52,S052,Region 7,UAE,New York,Online Warehouse
+53,S053,Region 8,UK,Los Angeles,Retail
+54,S054,Region 2,Spain,Cairo,Outlet
+55,S055,Region 8,France,Munich,Outlet
+56,S056,Region 5,France,Toronto,Retail
+57,S057,Region 6,France,Manchester,Online Warehouse
+58,S058,Region 8,USA,Riyadh,Online Warehouse
+59,S059,Region 2,UAE,Berlin,Online Warehouse
+60,S060,Region 6,Spain,Berlin,Online Warehouse
+61,S061,Region 8,Egypt,Cairo,Retail
+62,S062,Region 6,UK,London,Outlet
+63,S063,Region 7,Egypt,Riyadh,Retail
+64,S064,Region 8,UAE,Cairo,Outlet
+65,S065,Region 2,KSA,Munich,Outlet
+66,S066,Region 2,Germany,Cairo,Retail
+67,S067,Region 5,Italy,Madrid,Retail
+68,S068,Region 1,Spain,Toronto,Online Warehouse
+69,S069,Region 8,UK,Manchester,Retail
+70,S070,Region 5,Italy,Berlin,Outlet
+71,S071,Region 5,Spain,Riyadh,Outlet
+72,S072,Region 7,Egypt,Munich,Online Warehouse
+73,S073,Region 5,Egypt,Munich,Retail
+74,S074,Region 6,UK,Los Angeles,Retail
+75,S075,Region 4,Germany,Madrid,Retail
+76,S076,Region 2,Italy,Madrid,Retail
+77,S077,Region 2,Germany,Dubai,Retail
+78,S078,Region 7,Germany,Paris,Retail
+79,S079,Region 3,Egypt,Berlin,Retail
+80,S080,Region 6,Germany,Paris,Online Warehouse
+81,S081,Region 4,Italy,Los Angeles,Online Warehouse
+82,S082,Region 5,UAE,Madrid,Outlet
+83,S083,Region 5,Canada,Madrid,Outlet
+84,S084,Region 7,Spain,Dubai,Online Warehouse
+85,S085,Region 1,UAE,Riyadh,Retail
+86,S086,Region 7,Germany,Rome,Retail
+87,S087,Region 8,UK,Paris,Retail
+88,S088,Region 3,Egypt,London,Outlet
+89,S089,Region 1,KSA,Cairo,Retail
+90,S090,Region 3,Spain,Madrid,Outlet
+91,S091,Region 2,Germany,Toronto,Outlet
+92,S092,Region 5,Italy,Los Angeles,Retail
+93,S093,Region 1,Italy,Rome,Retail
+94,S094,Region 2,Germany,Toronto,Online Warehouse
+95,S095,Region 7,Italy,Toronto,Retail
+96,S096,Region 1,Italy,Dubai,Outlet
+97,S097,Region 7,Spain,New York,Retail
+98,S098,Region 5,Egypt,London,Outlet
+99,S099,Region 7,Egypt,Toronto,Online Warehouse
+100,S100,Region 8,KSA,Manchester,Outlet
+101,S101,Region 6,France,London,Retail
+102,S102,Region 6,UAE,New York,Outlet
+103,S103,Region 8,Italy,Rome,Online Warehouse
+104,S104,Region 8,Spain,Cairo,Retail
+105,S105,Region 5,France,Dubai,Retail
+106,S106,Region 6,Spain,Berlin,Outlet
+107,S107,Region 3,UK,New York,Retail
+108,S108,Region 6,Egypt,Manchester,Retail
+109,S109,Region 6,Spain,Toronto,Retail
+110,S110,Region 2,KSA,Paris,Online Warehouse
+111,S111,Region 1,Canada,Madrid,Outlet
+112,S112,Region 6,Italy,Toronto,Retail
+113,S113,Region 4,Italy,London,Outlet
+114,S114,Region 4,Italy,Munich,Online Warehouse
+115,S115,Region 6,Italy,New York,Outlet
+116,S116,Region 2,UAE,Dubai,Online Warehouse
+117,S117,Region 2,Canada,Los Angeles,Retail
+118,S118,Region 3,Canada,Toronto,Outlet
+119,S119,Region 2,Germany,New York,Retail
+120,S120,Region 2,Egypt,Riyadh,Outlet

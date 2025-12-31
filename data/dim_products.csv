@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,Subcategory,ListPrice,ProductLine,Gender
+1,Adidas Slides 01,Footwear,Slides,90.22,Performance,Women
+2,Adidas Soccer 02,Footwear,Soccer Boots,35.07,Performance,Women
+3,Adidas Balls 03,Accessories,Balls,145.77,Performance,Unisex
+4,Adidas Bags 04,Accessories,Bags,79.33,Core,Women
+5,Adidas Socks 05,Accessories,Socks,151.64,Performance,Men
+6,Adidas Shorts 06,Apparel,Shorts,108.73,Originals,Unisex
+7,Adidas Balls 07,Accessories,Balls,121.07,Core,Women
+8,Adidas Bags 08,Accessories,Bags,175.31,Performance,Women
+9,Adidas Balls 09,Accessories,Balls,51.14,Performance,Men
+10,Adidas Jackets 10,Apparel,Jackets,44.69,Originals,Women
+11,Adidas Socks 11,Accessories,Socks,174.8,Performance,Unisex
+12,Adidas Bags 12,Accessories,Bags,95.13,Originals,Unisex
+13,Adidas Jackets 13,Apparel,Jackets,96.11,Core,Unisex
+14,Adidas Hoodies 14,Apparel,Hoodies,89.94,Core,Women
+15,Adidas Hoodies 15,Apparel,Hoodies,69.98,Originals,Women
+16,Adidas Tracksuits 16,Apparel,Tracksuits,82.0,Originals,Unisex
+17,Adidas Soccer 17,Footwear,Soccer Boots,42.36,Originals,Unisex
+18,Adidas Caps 18,Accessories,Caps,145.91,Originals,Men
+19,Adidas Hoodies 19,Apparel,Hoodies,144.92,Performance,Men
+20,Adidas T-Shirts 20,Apparel,T-Shirts,42.37,Core,Unisex
+21,Adidas Hoodies 21,Apparel,Hoodies,95.38,Originals,Men
+22,Adidas Slides 22,Footwear,Slides,121.55,Performance,Men
+23,Adidas Soccer 23,Footwear,Soccer Boots,68.63,Performance,Unisex
+24,Adidas T-Shirts 24,Apparel,T-Shirts,54.33,Core,Men
+25,Adidas Balls 25,Accessories,Balls,57.43,Originals,Unisex
+26,Adidas Bags 26,Accessories,Bags,66.98,Performance,Men
+27,Adidas Soccer 27,Footwear,Soccer Boots,145.42,Originals,Men
+28,Adidas T-Shirts 28,Apparel,T-Shirts,150.24,Core,Unisex
+29,Adidas Jackets 29,Apparel,Jackets,34.41,Originals,Women
+30,Adidas Bags 30,Accessories,Bags,45.8,Originals,Men
+31,Adidas Caps 31,Accessories,Caps,131.41,Performance,Men
+32,Adidas Sneakers 32,Footwear,Sneakers,68.24,Originals,Men
+33,Adidas Shorts 33,Apparel,Shorts,34.02,Performance,Unisex
+34,Adidas Tracksuits 34,Apparel,Tracksuits,165.37,Performance,Women
+35,Adidas Shorts 35,Apparel,Shorts,175.07,Core,Women
+36,Adidas Soccer 36,Footwear,Soccer Boots,91.9,Originals,Unisex
+37,Adidas Running 37,Footwear,Running Shoes,164.42,Core,Men
+38,Adidas Caps 38,Accessories,Caps,68.95,Originals,Men
+39,Adidas Jackets 39,Apparel,Jackets,157.06,Core,Women
+40,Adidas Hoodies 40,Apparel,Hoodies,89.13,Core,Men
